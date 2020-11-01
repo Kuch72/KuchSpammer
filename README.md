@@ -1,4 +1,4 @@
-# spammer
+# Kuch Spammer
 Python3 based message spammer.
 
 # Installation
